@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/PanoramaExample.unity
+  isLoaded: 1
+  isActive: 1
